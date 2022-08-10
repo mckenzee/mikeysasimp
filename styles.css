@@ -161,4 +161,6 @@ body {
   a .square:hover {
     color: #C7647B;
   }
-  
+  @media only screen and (-webkit-min-device-pixel-ratio: 3) {
+    /* CSS */
+}
